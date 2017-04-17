@@ -13,7 +13,13 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
         // qq解密
-        qqDecrypted();
+//        qqDecrypted();
+        // qq解密队列版
+//        qqDecryptedForQueue();
+        // 回文检查
+//        palindrome();
+        /** 小猫钓鱼*/
+        kitteFishing();
         
     }
     return 0;
